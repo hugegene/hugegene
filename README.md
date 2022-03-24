@@ -4,7 +4,6 @@ I am a computer vision engineer, data scientist from National University of Sing
 
 Linkedin: https://www.linkedin.com/in/eugene-c-616768142/
 
-Tutoring Service on Carousell: https://www.carousell.sg/p/computer-vision-data-science-tutoring-1147174703/?t-id=23255752_1646545332484&t-referrer_request_id=fs8IyCzFhdY8nhsF&t-tap_index=0
 
 <!--
 **hugegene/hugegene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
